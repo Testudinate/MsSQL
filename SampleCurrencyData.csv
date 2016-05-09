@@ -1,0 +1,4 @@
+id;name;count;currency
+1;'test';260;'USD' 
+2;'test';300;'RUR'
+3;'test';2000;'EUR'
