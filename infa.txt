@@ -1,3 +1,5 @@
 Список литературы и статьи:
 
 http://dev.net.ua/blogs/konstantinkhomyakov/pages/11728.aspx
+
+https://msdn.microsoft.com/ru-ru/data/hh297027
